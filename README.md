@@ -1,1 +1,0 @@
-# show-substance-details-for-panels
